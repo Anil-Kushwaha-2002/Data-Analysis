@@ -3,7 +3,8 @@
 # Financial Data Extraction 
 # Assignment: Financial Data Extraction Using Open-Source LLMs
 
-Objective: Your task is to use an open-source Large Language Model (LLM) trained specifically for handling financial
+# Objective: 
+Your task is to use an open-source Large Language Model (LLM) trained specifically for handling financial
 data to extract key entities from the provided pdf documents.
 
 Please access the pdfs here:
