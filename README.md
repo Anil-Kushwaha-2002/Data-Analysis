@@ -1,6 +1,7 @@
-# Data-Analysis
+# Data Analysis / Data Science
 
 # Financial Data Extraction 
+I use Google Colab - links https://colab.research.google.com/drive/16iHp9AbRMs8YS7WyLNsQlS96N5HnM8gF?usp=sharing
 # Assignment: Financial Data Extraction Using Open-Source LLMs
 
 # Objective: 
