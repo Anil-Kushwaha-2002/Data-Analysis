@@ -1,6 +1,6 @@
 # Data Analysis / Data Science
 
-# Assignment: Financial Data Extraction 
+# 1 Assignment: Financial Data Extraction 
 I use Google Colab - links https://colab.research.google.com/drive/16iHp9AbRMs8YS7WyLNsQlS96N5HnM8gF?usp=sharing
 # Objective: 
 Your task is to use an open-source Large Language Model (LLM) trained specifically for handling financial
