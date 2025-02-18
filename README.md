@@ -21,9 +21,17 @@ Use the selected LLM to extract the following financial entities from the pdfs:
 
 • Expected Output Format: A JSON file with a structured key-value format.
 
-# 2. AI_Assignment
+
+# 2. AI_Assignment  
+https://colab.research.google.com/drive/1WgT__8uSNDJ5FT8RNGHpbrpZo1Mv7z10?usp=sharing
+
 # 3. Data Science
+
+
 # 4. Python Coding Assignment
+https://colab.research.google.com/drive/1trXHk_MngHCdBG64Td2-oGcQTVTNtAiW?usp=sharing
+
 # 5. SDE Assignment
+https://colab.research.google.com/drive/14NSKSMC01NUfhkjrU7x_dhHahjdWaEFS?usp=sharing
 
 
