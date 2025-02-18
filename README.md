@@ -26,7 +26,7 @@ Use the selected LLM to extract the following financial entities from the pdfs:
 https://colab.research.google.com/drive/1WgT__8uSNDJ5FT8RNGHpbrpZo1Mv7z10?usp=sharing
 
 # 3. Data Science
-
+https://github.com/Anil-Kushwaha-2002/Data-Science-eCommerce_Transactions
 
 # 4. Python Coding Assignment
 https://colab.research.google.com/drive/1trXHk_MngHCdBG64Td2-oGcQTVTNtAiW?usp=sharing
