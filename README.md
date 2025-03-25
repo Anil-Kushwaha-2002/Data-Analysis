@@ -37,4 +37,5 @@ https://colab.research.google.com/drive/14NSKSMC01NUfhkjrU7x_dhHahjdWaEFS?usp=sh
 # 6. Python (ThinkClock Battery Labs)
 https://colab.research.google.com/drive/1nUJ59L3Ine7pmmbWab4dNXhdl9ZBX8mt?usp=sharing
 
-
+# 7. Processing Map Data with Metadata
+https://colab.research.google.com/drive/1oyZsqJ1PYUC79WTNyJSwX6ri7BCpCwuB?usp=sharing
